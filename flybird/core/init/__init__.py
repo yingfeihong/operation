@@ -4,5 +4,3 @@ Module Description:
 Date: 
 Author: Yfh
 """
-username = 'root'
-password = 'Yy85772321'
