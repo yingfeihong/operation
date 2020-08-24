@@ -1,0 +1,1 @@
+@"d:\nproject\dongdada_server\venv\scripts\python.exe" "d:\nproject\dongdada_server\venv\Scripts\markdown_py" %*
